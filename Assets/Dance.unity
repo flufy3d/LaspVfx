@@ -255,7 +255,10 @@ VisualEffect:
   m_ResetSeedOnPlay: 1
   m_PropertySheet:
     m_Float:
-      m_Array: []
+      m_Array:
+      - m_Value: 6
+        m_Name: Max Depth
+        m_Overridden: 1
     m_Vector2f:
       m_Array: []
     m_Vector3f:
@@ -1232,7 +1235,7 @@ MonoBehaviour:
     x: 10
     y: 10
     z: 10
-  frequency: 1
+  frequency: 0.3
   octaves: 2
 --- !u!1 &727800894
 GameObject:
