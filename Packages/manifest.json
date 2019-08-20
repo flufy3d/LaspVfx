@@ -5,8 +5,13 @@
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.package-manager-ui": "2.1.2",
     "com.unity.purchasing": "2.0.6",
+    "com.unity.render-pipelines.high-definition": "5.10.0-preview",
     "com.unity.textmeshpro": "2.0.1",
     "com.unity.timeline": "1.0.0",
+    "com.unity.visualeffectgraph": "5.10.0-preview",
+    "jp.keijiro.klak.motion": "https://github.com/keijiro/ProceduralMotion.git#upm",
+    "jp.keijiro.lasp": "https://github.com/keijiro/Lasp.git#upm",
+    "org.nuget.system.memory": "4.5.3",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.assetbundle": "1.0.0",
@@ -36,14 +41,15 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0",
-    "com.unity.render-pipelines.high-definition": "5.10.0-preview",
-    "com.unity.visualeffectgraph": "5.10.0-preview",
-    "jp.keijiro.lasp": "https://github.com/keijiro/Lasp.git#upm"
+    "com.unity.modules.xr": "1.0.0"
   },
   "lock": {
     "jp.keijiro.lasp": {
       "hash": "d48c0d55fb969274bbf04e7d3341d724f1b58f52",
+      "revision": "upm"
+    },
+    "jp.keijiro.klak.motion": {
+      "hash": "f99a1a3a6cb71d9601f8cf7caadf2abfb3b0c916",
       "revision": "upm"
     }
   }
